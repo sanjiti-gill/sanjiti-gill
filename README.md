@@ -1,4 +1,14 @@
 ### 🧠 Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,sql,arduino,git,github,vscode,linux" />
+</p>
+
+---
+
+
+
+### 🧠 Languages & Tools  
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
