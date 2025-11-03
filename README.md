@@ -1,18 +1,14 @@
 ### 🧠 Languages & Tools  
 
-<style>
-  .tech-icons img {
-    transition: transform 0.2s ease-in-out;
-  }
-  .tech-icons img:hover {
-    transform: scale(1.2);
-  }
-</style>
-
-<p align="center" class="tech-icons">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,mysql,arduino,git,github,vscode,linux" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,arduino&perline=6" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiti-gill&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 
 
