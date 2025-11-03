@@ -1,11 +1,17 @@
 ### 🧠 Languages & Tools  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,arduino" />
+<style>
+  .tech-icons img {
+    transition: transform 0.2s ease-in-out;
+  }
+  .tech-icons img:hover {
+    transform: scale(1.2);
+  }
+</style>
+
+<p align="center" class="tech-icons">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,mysql,arduino,git,github,vscode,linux" />
 </p>
-
----
-
 
 
 
