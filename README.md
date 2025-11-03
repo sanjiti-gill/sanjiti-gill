@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiti-gill&theme=react-dark&hide_border=true&area=true" />
-</p>
 
 
 
