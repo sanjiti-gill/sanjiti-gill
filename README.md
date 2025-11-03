@@ -1,7 +1,7 @@
 ### 🧠 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,MySQL,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,arduino" />
 </p>
 
 ---
